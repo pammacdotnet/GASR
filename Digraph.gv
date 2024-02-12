@@ -1,0 +1,11 @@
+digraph {
+	<ExpressionTree.ExpressionTree.Node object at 0x000001AA485D0520> [label="*"]
+	<ExpressionTree.ExpressionTree.Node object at 0x000001AA485D0520> -> <ExpressionTree.ExpressionTree.Node object at 0x000001AA47D32200>
+	<ExpressionTree.ExpressionTree.Node object at 0x000001AA47D32200> [label=3]
+	<ExpressionTree.ExpressionTree.Node object at 0x000001AA485D0520> -> <ExpressionTree.ExpressionTree.Node object at 0x000001AA47D30490>
+	<ExpressionTree.ExpressionTree.Node object at 0x000001AA47D30490> [label="+"]
+	<ExpressionTree.ExpressionTree.Node object at 0x000001AA47D30490> -> <ExpressionTree.ExpressionTree.Node object at 0x000001AA47D30520>
+	<ExpressionTree.ExpressionTree.Node object at 0x000001AA47D30520> [label=4]
+	<ExpressionTree.ExpressionTree.Node object at 0x000001AA47D30490> -> <ExpressionTree.ExpressionTree.Node object at 0x000001AA47D312D0>
+	<ExpressionTree.ExpressionTree.Node object at 0x000001AA47D312D0> [label=2]
+}

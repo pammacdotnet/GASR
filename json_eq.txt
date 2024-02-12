@@ -1,0 +1,25 @@
+{
+  "operacion0": "/",
+  "hijos0": [
+    {
+      "operacion1": "*",
+      "hijos1": [
+        {
+          "__set__": [
+            "Longitud(cm)"
+          ]
+        },
+        {
+          "__set__": [
+            "Resistividad(OhmCm)"
+          ]
+        }
+      ]
+    },
+    {
+      "__set__": [
+        "Area(cm^2)"
+      ]
+    }
+  ]
+}
